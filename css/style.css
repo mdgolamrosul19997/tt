@@ -1,0 +1,31 @@
+body{
+    margin:0;
+    padding:0;
+    display:flex;
+    background-color: darkturquoise;
+}
+.red{
+    background-color: #ce1126;
+    height:400px;
+    width:600px;
+    position:relative;
+}
+.green{
+    background-color: #002868;
+    height:200px;
+    width:600px;
+    margin-top: 100px;
+    position: relative;
+}
+.white{
+background-color: white;
+height:150px;
+width:150px;
+border-radius: 50%;
+top:0;
+bottom:0;
+right:0;
+left:0;
+margin:auto;
+position:absolute;
+}
